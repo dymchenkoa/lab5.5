@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Student\LB_5.50\Project3\Source.cpp(87): warning C4715: f: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка D:\Student\LB_5.50\x64\Debug\UnitTest1.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека D:\Student\LB_5.50\x64\Debug\UnitTest1.lib и объект D:\Student\LB_5.50\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Student\LB_5.50\x64\Debug\UnitTest1.dll
